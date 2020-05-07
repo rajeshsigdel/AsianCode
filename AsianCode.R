@@ -1,7 +1,7 @@
 # Setting up the working directory
 setwd("D:/Rfiles/AsianCode")
 
-
+# First, we need to visualize the data
 # Bar graph ---------------------------------------------------------------
 
 
